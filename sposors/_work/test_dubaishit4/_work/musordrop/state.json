@@ -1,0 +1,82 @@
+{
+ "stamp": "1790518857_89527323",
+ "rules": {
+  "title": "MusorDrop",
+  "banner": "../musordrop/files/musordrop animation green-screen sound on.mp4",
+  "key": {
+   "color": "0x00FE00",
+   "similarity": 0.28,
+   "blend": 0.06
+  },
+  "speed": 1.2,
+  "widthFrac": 1.0,
+  "minArea": 0.25,
+  "lufs": -14,
+  "pause": true,
+  "timing": "musordrop",
+  "tolerance": 1.0
+ },
+ "plan": {
+  "nfr": 120,
+  "B": 5.0,
+  "speed": 1.2,
+  "tempo": "atempo=1.2",
+  "gain": 0.09999999999999964,
+  "cuts": [
+   {
+    "target": 33.729,
+    "frame": 813,
+    "cut": 33.875,
+    "levelDb": -23.0
+   }
+  ],
+  "why": "один баннер в середине (ролик короче 2 минут)",
+  "bw": 1080,
+  "area": 0.24842271293375393,
+  "bsize": [
+   1902,
+   1000
+  ]
+ },
+ "jobs": [
+  {
+   "kind": "m",
+   "f0": 0,
+   "n": 406,
+   "file": "/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/musordrop/v000.mp4",
+   "done": true
+  },
+  {
+   "kind": "m",
+   "f0": 406,
+   "n": 407,
+   "file": "/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/musordrop/v001.mp4",
+   "done": true
+  },
+  {
+   "kind": "b",
+   "i": 0,
+   "file": "/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/musordrop/v002.mp4",
+   "done": true
+  },
+  {
+   "kind": "m",
+   "f0": 813,
+   "n": 403,
+   "file": "/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/musordrop/v003.mp4",
+   "done": true
+  },
+  {
+   "kind": "m",
+   "f0": 1216,
+   "n": 403,
+   "file": "/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/musordrop/v004.mp4",
+   "done": true
+  }
+ ],
+ "spf_m_t": 130.54922676086426,
+ "spf_m_n": 1619,
+ "spf_b_t": 14.815278053283691,
+ "spf_b_n": 120,
+ "done": true
+}

@@ -1,0 +1,27 @@
+{
+  "_note": "Актуально на 30.09.2026. Источники: каналы @floatup_TikTok и Musor TikTok (экспорт в sposors), чат @musordroptiktok (экспорт до 21.09). Перед каждым заливом сверять новые посты.",
+  "floatup": {
+    "title": "FloatUP",
+    "banner": "../floatup/files/FLOATUP_MAIN.mp4",
+    "key": null,
+    "speed": 1.5,
+    "widthFrac": 1.0,
+    "minArea": 0.30,
+    "lufs": -14,
+    "pause": true,
+    "timing": "floatup",
+    "tolerance": 0.5
+  },
+  "musordrop": {
+    "title": "MusorDrop",
+    "banner": "../musordrop/files/musordrop animation green-screen sound on.mp4",
+    "key": {"color": "0x00FE00", "similarity": 0.28, "blend": 0.06},
+    "speed": 1.2,
+    "widthFrac": 1.0,
+    "minArea": 0.25,
+    "lufs": -14,
+    "pause": true,
+    "timing": "musordrop",
+    "tolerance": 1.0
+  }
+}

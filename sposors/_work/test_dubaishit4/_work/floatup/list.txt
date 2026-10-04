@@ -1,0 +1,6 @@
+file '/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/floatup/v000.mp4'
+file '/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/floatup/v001.mp4'
+file '/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/floatup/v002.mp4'
+file '/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/floatup/v003.mp4'
+file '/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/floatup/v004.mp4'
+file '/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/_work/floatup/v005.mp4'

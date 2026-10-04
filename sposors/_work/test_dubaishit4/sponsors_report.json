@@ -1,0 +1,104 @@
+{
+ "project": "dubaishit",
+ "source": "/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/dubaishit/montage/dubaishit_montage.mp4",
+ "duration": 67.458,
+ "size": [
+  1080,
+  1920
+ ],
+ "fps": 24.0,
+ "sponsors": {
+  "floatup": {
+   "file": "/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/dubaishit_floatup.mp4",
+   "rule": "на 0:20, 1:20, 2:20… итогового ролика",
+   "bannerSec": 3.458,
+   "speed": 1.5,
+   "gainDb": 10.1,
+   "cuts": [
+    {
+     "target": 20.0,
+     "frame": 482,
+     "cut": 20.083,
+     "levelDb": -15.1
+    }
+   ],
+   "final": [
+    {
+     "start": 20.08,
+     "end": 23.54
+    }
+   ],
+   "duration": 70.92,
+   "areaPct": 31.6,
+   "checks": [
+    {
+     "text": "длина 70.92s (ожидалось 70.92s), кадров 1702 из 1702",
+     "ok": true
+    },
+    {
+     "text": "баннер 1 стартует на 20.08s (нужно 20s ±0.5)",
+     "ok": true
+    },
+    {
+     "text": "размер 31.6% экрана (нужно ≥30%)",
+     "ok": true
+    },
+    {
+     "text": "громкость баннера -14.7 LUFS, ролика -14.3 LUFS",
+     "ok": true
+    },
+    {
+     "text": "скорость баннера 1.5x (лимит спонсора)",
+     "ok": true
+    }
+   ],
+   "checkFrame": "/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/check_floatup.png"
+  },
+  "musordrop": {
+   "file": "/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/dubaishit_musordrop.mp4",
+   "rule": "один баннер в середине (ролик короче 2 минут)",
+   "bannerSec": 5.0,
+   "speed": 1.2,
+   "gainDb": 0.1,
+   "cuts": [
+    {
+     "target": 33.729,
+     "frame": 813,
+     "cut": 33.875,
+     "levelDb": -23.0
+    }
+   ],
+   "final": [
+    {
+     "start": 33.88,
+     "end": 38.88
+    }
+   ],
+   "duration": 72.46,
+   "areaPct": 24.8,
+   "checks": [
+    {
+     "text": "длина 72.46s (ожидалось 72.46s), кадров 1739 из 1739",
+     "ok": true
+    },
+    {
+     "text": "середина ролика 36.23s внутри баннера 33.88–38.88s",
+     "ok": true
+    },
+    {
+     "text": "размер 24.8% экрана (нужно ≥25%)",
+     "ok": true
+    },
+    {
+     "text": "громкость баннера -14.0 LUFS, ролика -14.3 LUFS",
+     "ok": true
+    },
+    {
+     "text": "скорость баннера 1.2x (лимит спонсора)",
+     "ok": true
+    }
+   ],
+   "checkFrame": "/sessions/rcw-01r4s6jdbdae8hm6j8wf65kf/mnt/sposors/_work/test_dubaishit4/check_musordrop.png"
+  }
+ }
+}

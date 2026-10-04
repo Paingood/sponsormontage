@@ -1,0 +1,82 @@
+{
+ "stamp": "1790518857_89527323",
+ "rules": {
+  "title": "FloatUP",
+  "banner": "../floatup/files/FLOATUP_MAIN.mp4",
+  "key": null,
+  "speed": 1.5,
+  "widthFrac": 1.0,
+  "minArea": 0.3,
+  "lufs": -14,
+  "pause": true,
+  "timing": "floatup",
+  "tolerance": 0.5
+ },
+ "plan": {
+  "nfr": 83,
+  "B": 3.4583333333333335,
+  "speed": 1.5,
+  "tempo": "atempo=1.5",
+  "gain": 10.100000000000001,
+  "cuts": [
+   {
+    "target": 20.0,
+    "frame": 482,
+    "cut": 20.083,
+    "levelDb": -15.1
+   }
+  ],
+  "why": "на 0:20, 1:20, 2:20… итогового ролика",
+  "bw": 1080,
+  "area": 0.31640625,
+  "bsize": [
+   1920,
+   1080
+  ]
+ },
+ "jobs": [
+  {
+   "kind": "m",
+   "f0": 0,
+   "n": 480,
+   "file": "mnt/sposors/_work/test_dubaishit3/_work/floatup/v000.mp4",
+   "done": true
+  },
+  {
+   "kind": "m",
+   "f0": 480,
+   "n": 2,
+   "file": "mnt/sposors/_work/test_dubaishit3/_work/floatup/v001.mp4",
+   "done": true
+  },
+  {
+   "kind": "b",
+   "i": 0,
+   "file": "mnt/sposors/_work/test_dubaishit3/_work/floatup/v002.mp4",
+   "done": true
+  },
+  {
+   "kind": "m",
+   "f0": 482,
+   "n": 480,
+   "file": "mnt/sposors/_work/test_dubaishit3/_work/floatup/v003.mp4",
+   "done": false
+  },
+  {
+   "kind": "m",
+   "f0": 962,
+   "n": 480,
+   "file": "mnt/sposors/_work/test_dubaishit3/_work/floatup/v004.mp4",
+   "done": false
+  },
+  {
+   "kind": "m",
+   "f0": 1442,
+   "n": 177,
+   "file": "mnt/sposors/_work/test_dubaishit3/_work/floatup/v005.mp4",
+   "done": false
+  }
+ ],
+ "spf_m": 0.6392687559127808,
+ "spf_b": 0.08374536755573318
+}
